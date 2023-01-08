@@ -2,4 +2,4 @@
 - 👀 I’m interested in web development(frontend, backend) and ios apps.
 - 🌱 I’m currently learning ios development.
 - 💞️ I’m looking to collaborate on some cool projects in any domain.
-- 📫 How to reach me: just text me in Telegram @alexsutul.
+- 📫 How to reach me: just text me in Telegram @alex_sutulov.
