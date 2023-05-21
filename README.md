@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sutulov Aleksandr.
 - 👀 I’m interested in web development(frontend, backend).
-- 🌱 I’m currently learning golang and database development.
+- 🌱 I’m currently learning IOS development.
 - 💞️ I’m looking to collaborate on some cool projects in any domain.
 - 📫 How to reach me: just text me in Telegram @alex_sutulov.
